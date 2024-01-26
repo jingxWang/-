@@ -1,4 +1,4 @@
-#Multi-function-calculator
+# Multi-function-calculator
 
 本系统设计和实现了一个多功能计算器，该计算器具备基本的算术运算功能，并通过Java Swing提供了一个图形用户界面。该项目采用了MVC架构，实现了用户界面与业务逻辑的分离，突出了高效、易用的设计理念。
 
